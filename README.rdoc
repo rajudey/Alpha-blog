@@ -1,1 +1,2 @@
 This is my first Alpha-blog app where I'm testing push to git repository
+Added new line
